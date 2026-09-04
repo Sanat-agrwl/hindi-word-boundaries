@@ -1,0 +1,16 @@
+{
+  "n_utterances": 100,
+  "n_annotations": 171,
+  "n_doubly_annotated": 71,
+  "n_annotated_words": 2352,
+  "inter_annotator_agreement": {
+    "n_boundaries": 1858,
+    "mean_ms": 26.97,
+    "median_ms": 20.58,
+    "p90_ms": 58.84,
+    "within_20ms_pct": 53.28,
+    "within_50ms_pct": 85.25,
+    "within_100ms_pct": 96.66
+  },
+  "note": "Agreement is pooled over word starts and ends after LCS word matching, computed only on utterances carrying two independent annotations."
+}

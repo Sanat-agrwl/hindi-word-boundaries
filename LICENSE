@@ -1,0 +1,14 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The word-boundary annotations, agreement statistics and annotation tool in this repository
+are licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+They are derived from the IndicVoices-R corpus (Sankar et al., NeurIPS 2024 Datasets and
+Benchmarks Track), which is distributed under CC BY 4.0. Attribution to both this work and
+IndicVoices-R is required.
+
+The annotation records redistribute no audio; each indexes the corpus test split. The demo
+batch under tool/ embeds a few seconds of IndicVoices-R audio so that it runs without setup.
+
+The model weights at https://huggingface.co/Sanat-agrwl/indic-whisper-ctc-timestamps are
+released separately under Apache-2.0.
